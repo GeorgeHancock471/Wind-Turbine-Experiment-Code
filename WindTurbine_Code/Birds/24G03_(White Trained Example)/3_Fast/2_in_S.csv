@@ -1,0 +1,2 @@
+BirdID,TrialType,trainWindImage,Speed,Number,Date,Time,InOut,LeftRight,TimeToPeck,SuccFail,PeckX,PeckY,PeckD,clicks,TargetX,TargetY,TargetSize,TargetAngle,RadiusCentre,TurbineAngle,Blade1Angle,Blade2Angle,Blade3Angle,Blade1Dist,Blade2Dist,Blade3Dist,MinBladeDist,expandTarget,frameRate,dotCol,timeOutTime,frames
+24G03,3_Fast,White,10,2,2024-02-13,10:49:08,in,left,3.761714e+01,Succ,NA,NA,NA,NA,794,559,58,3.4614,512,258.7273,353.7273,113.7273,233.7273,9.7342,110.2658,129.7342,9.7342,0,164.0196,0.447214 0.447214 0.447214,120,6204
